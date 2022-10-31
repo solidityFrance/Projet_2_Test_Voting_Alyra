@@ -1,6 +1,6 @@
 # Projet_2_Test_Voting_Alyra
 
-Voting tests - Alyra Project 2 by HELLO Chris
+Tests Unitaires - Alyra Project 2 by HELLO Chris
 
 ## General Information
 
