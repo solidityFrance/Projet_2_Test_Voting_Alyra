@@ -14,11 +14,7 @@ The tests are written with truffle syntax, use of *@nomiclabs/hardhat-truffle5* 
 * Javascript - version ES2019
 * Hardhat - version 2.12.0
 
-## Technologies Used
 
-* Solidity - version 0.8.17
-* Javascript - version ES2019
-* Hardhat - version 2.12.0
 
 ## Test results
 
@@ -28,4 +24,4 @@ The tests are written with truffle syntax, use of *@nomiclabs/hardhat-truffle5* 
 
 
 #### Coverage
-[coverage](https://user-images.githubusercontent.com/93587059/199021993-7c68b711-0007-4481-9fce-3130fa8d6755.PNG)
+![coverage](https://user-images.githubusercontent.com/93587059/199021993-7c68b711-0007-4481-9fce-3130fa8d6755.PNG)
