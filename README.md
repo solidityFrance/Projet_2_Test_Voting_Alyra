@@ -2,8 +2,10 @@
 
 Tests Unitaires - Alyra Project 2 by HELLO Chris
 
-## General Information
+## General Information and Lirairie : 
 
+-@openzeppelin/test-helpers pour expectRevert, expectEvent
+-chai : pour les BigNumbers et expect
 Tests are located at Projet_2_Test_Voting_Alyra/test_Voting.js 
 
 The tests are written with truffle syntax, use of *@nomiclabs/hardhat-truffle5* pluging to migrate it to hardhat.
