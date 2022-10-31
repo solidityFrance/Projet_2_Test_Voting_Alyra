@@ -4,7 +4,7 @@ Voting tests - Alyra Project 2 by HELLO Chris
 
 ## General Information
 
-Tests are located at [test_voting.js](test/test_voting.js).
+Tests are located at Projet_2_Test_Voting_Alyra/test_Voting.js 
 
 The tests are written with truffle syntax, use of *@nomiclabs/hardhat-truffle5* pluging to migrate it to hardhat.
 
