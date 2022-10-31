@@ -2,20 +2,23 @@
 
 Tests Unitaires - Alyra Project 2 by HELLO Chris
 
-## General Information and Lirairie : 
+## General Information : 
 
--@openzeppelin/test-helpers pour expectRevert, expectEvent
--chai : pour les BigNumbers et expect
 Tests are located at Projet_2_Test_Voting_Alyra/test_Voting.js 
 
 The tests are written with truffle syntax, use of *@nomiclabs/hardhat-truffle5* pluging to migrate it to hardhat.
+
+## Librairie:
+
+-@openzeppelin/test-helpers pour expectRevert, expectEvent
+-chai : pour les BigNumbers et expect
 
 ## Technologies Used
 
 * Solidity - version 0.8.17
 * Javascript - version ES2019
 * Hardhat - version 2.12.0
-
+* NVM use - version 16.16.0
 
 
 ## Test results
