@@ -8,18 +8,27 @@ Tests are located at Projet_2_Test_Voting_Alyra/test_Voting.js
 
 The tests are written with truffle syntax, use of *@nomiclabs/hardhat-truffle5* pluging to migrate it to hardhat.
 
-## Librairie:
+## Dependencies:
 
--@openzeppelin/test-helpers pour expectRevert, expectEvent
--chai : pour les BigNumbers et expect
+   * "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+   * "@nomiclabs/hardhat-truffle5": "^2.0.7",
+   * "@openzeppelin/contracts": "^4.7.3",
+   * "@openzeppelin/test-helpers": "^0.5.16",
+   * "hardhat": "^2.12.1",
+   * "hardhat-gas-reporter": "^1.0.9",
+   * "solidity-coverage": "^0.8.2",
+   * @openzeppelin/test-helpers use for => expectRevert, expectEvent
+   * chai use for => BigNumbers et expect
+
 
 ## Technologies Used
 
 * Solidity - version 0.8.17
 * Javascript - version ES2019
-* Hardhat - version 2.12.0
+* Hardhat - version 2.12.1
 * NVM use - version 16.16.0
-
+* NPM -version 8.19.2
+* Yarn - version 1.22.19
 
 ## Test results
 
